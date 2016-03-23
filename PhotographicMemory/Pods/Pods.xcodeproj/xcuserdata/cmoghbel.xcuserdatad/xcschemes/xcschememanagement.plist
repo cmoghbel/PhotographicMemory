@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-PhotographicMemory-AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PhotographicMemory-DACircularProgress.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PhotographicMemory-IDMPhotoBrowser.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PhotographicMemory-pop.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PhotographicMemory.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>57C0A25C7AA07A948870BCAF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BCFE3C126226B566D692641</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D42590F2A0991BA7DCD1AE0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CD4FC923D0A6D496F154012B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DE0F4B59B5C5DFAF039CEC81</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
